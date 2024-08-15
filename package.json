@@ -1,0 +1,21 @@
+{
+  "name": "caesar-cipher",
+  "version": "1.0.0",
+  "description": "A js sideproject to automatically crack caesar ciphers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "github.com/YasogaN/caesar-cipher.git"
+  },
+  "keywords": [
+    "decoding",
+    "cipher",
+    "caesar"
+  ],
+  "author": "Yasoga Nanayakkarawasam <contact@yasogan.dev>",
+  "license": "MIT"
+}
